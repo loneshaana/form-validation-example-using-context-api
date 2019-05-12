@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.error {
+  color: red;
+  font-size: 12px;
+  bottom: 0px;
+}
